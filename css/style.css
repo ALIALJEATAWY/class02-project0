@@ -1,0 +1,36 @@
+.c{
+    text-align: center;
+}
+
+.rent{
+   
+    display: inline-block;
+    border:6px solid black;
+    padding: 8px;
+    margin: 4px;
+    background-color: darkgray  ;
+    color: darkcyan;
+    
+}
+.f{
+    text-align: center;
+}
+.car-page{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 4px;
+    margin: 4px;
+    background-color: salmon ;
+    color: darkred;
+    text-align: center;
+}
+
+.html-all{
+    background-color: wheat;
+}
+
+.ee{
+    background-color: tomato;
+    color: black;
+    display: inline-block;
+}
