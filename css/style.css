@@ -1,8 +1,7 @@
-.c{
-    text-align: center;
+.body{
+    height: 1200px;
 }
-
-.rent{
+/* .rent{
    
     display: inline-block;
     border:6px solid black;
@@ -11,26 +10,69 @@
     background-color: darkgray  ;
     color: darkcyan;
     
-}
+} */
 .f{
-    text-align: center;
+   text-align: center;
+ 
 }
 .car-page{
-    display: inline-block;
-    border: 2px solid black;
+    
+    
     padding: 4px;
     margin: 4px;
-    background-color: salmon ;
-    color: darkred;
-    text-align: center;
+    position: relative;
+    right:20px;
+    background-color:#7c9473 ;
+    color:#cdd0cb;
+    
 }
 
-.html-all{
-    background-color: wheat;
-}
+/* .html-all{
+    background-color: #;
+} */
 
 .ee{
-    background-color: tomato;
+    background-color:white;
+    margin: 5px;
     color: black;
     display: inline-block;
+}
+
+header{
+    background-color: #cfdac8;
+    
+}
+
+main{
+    background-color: #cdd0cb;
+}
+
+footer{
+    background-color: #7c9473;
+}
+.pic{
+ float: right;
+ margin: 16px;
+}
+.piclogo{
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+/* .a{
+    float: left;
+} */
+.rent{
+    position: fixed;
+    bottom: 40px;
+}
+
+.picp{
+    text-align: center;
+    border: white;
+    border:3px solid black;
+    padding: 8px;
+    margin: 4px;
+    color:white;
+    background-color: #7c9473;
 }
